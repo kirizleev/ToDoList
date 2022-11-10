@@ -1,0 +1,13 @@
+h2{
+    font-size: 1rem;
+    align-self: center;
+    margin-left: auto;
+    color: #6c757d;
+}
+
+@media screen 
+and (max-width : 450px) {
+    h1,h2{
+        text-align: center;
+    }
+}

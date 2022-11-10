@@ -1,0 +1,15 @@
+.item-add-form{
+    margin-top: 10px;
+}
+
+.item-add-form input{
+    margin-right: 5px;
+}
+
+@media screen 
+and (max-width : 450px) {
+    .item-add-form button{
+        width: 75%;
+        margin-top: 5px;
+    }
+}

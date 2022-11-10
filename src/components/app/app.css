@@ -1,0 +1,17 @@
+.todo-app{
+    max-width: 450px;
+    margin: auto;
+}
+
+
+@media screen 
+and (max-width : 450px) {
+    .d-flex{
+        display: block !important;
+        text-align: center;
+    }
+
+    .todo-app{
+        margin: auto 5px;
+    }
+}
